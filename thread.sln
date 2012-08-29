@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "thread", "thread.vcproj", "{22326BAA-A1D6-427C-8DB5-E78B21D6343C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample1", "Samples\Sample1\Sample1.vcproj", "{2C2B2564-BDDB-4D99-ACA7-00A5F3E69E4E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreadTest", "Samples\ThreadTest\ThreadTest.vcproj", "{3DD86064-7E5A-4917-80B5-5EE2D0DEF52C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22326BAA-A1D6-427C-8DB5-E78B21D6343C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22326BAA-A1D6-427C-8DB5-E78B21D6343C}.Debug|Win32.Build.0 = Debug|Win32
+		{22326BAA-A1D6-427C-8DB5-E78B21D6343C}.Release|Win32.ActiveCfg = Release|Win32
+		{22326BAA-A1D6-427C-8DB5-E78B21D6343C}.Release|Win32.Build.0 = Release|Win32
+		{2C2B2564-BDDB-4D99-ACA7-00A5F3E69E4E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2C2B2564-BDDB-4D99-ACA7-00A5F3E69E4E}.Debug|Win32.Build.0 = Debug|Win32
+		{2C2B2564-BDDB-4D99-ACA7-00A5F3E69E4E}.Release|Win32.ActiveCfg = Release|Win32
+		{2C2B2564-BDDB-4D99-ACA7-00A5F3E69E4E}.Release|Win32.Build.0 = Release|Win32
+		{3DD86064-7E5A-4917-80B5-5EE2D0DEF52C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3DD86064-7E5A-4917-80B5-5EE2D0DEF52C}.Debug|Win32.Build.0 = Debug|Win32
+		{3DD86064-7E5A-4917-80B5-5EE2D0DEF52C}.Release|Win32.ActiveCfg = Release|Win32
+		{3DD86064-7E5A-4917-80B5-5EE2D0DEF52C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
