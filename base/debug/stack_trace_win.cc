@@ -14,7 +14,7 @@
 #include "base/memory/singleton.h"
 #include "base/synchronization/lock.h"
 
-
+#pragma comment(lib, "Dbghelp.lib")
 namespace base {
 namespace debug {
 
